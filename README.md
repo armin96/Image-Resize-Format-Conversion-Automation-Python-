@@ -4,6 +4,7 @@ Image Resize & Format Conversion Automation (Python)
 
 A bulk image processing automation tool.
 Resizes images and converts formats while preserving aspect ratio.
+![okk](https://github.com/user-attachments/assets/f6865a1e-af2b-4070-92c9-4eac93f190f4)
 
 FEATURES
 --------
